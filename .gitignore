@@ -23,5 +23,4 @@ schemas/target/
 *.blend1
 
 # Created by nix build
-flake.lock
 result-bin
